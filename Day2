@@ -1,0 +1,136 @@
+let a = 10;
+let b = 15;
+
+console.log("Addition is", a+b);
+console.log("Subtraction is", a-b);
+console.log("productt is", a*b);
+console.log("divisible is", b/a);
+
+
+
+// given
+
+let a=3;
+let b=2;
+
+// output be like;
+// sum is 5
+// sub is 1
+// mul is 6
+// div is 1.5
+
+console.log("sum is",a+b);
+console.log("sub is",a-b);
+console.log("mul is",a*b);
+console.log("div is",a/b);
+
+
+
+
+
+
+
+
+let x = 10;
+
+let y = 20;
+
+
+console.log(x % y);
+
+
+
+
+
+
+
+
+
+
+// modulo (%)
+
+console.log(10 % 4); //2  
+console.log(7 %2 ); //1
+
+console.log(6 % 56); //6
+
+console.log(2 % 3); //2
+console.log(4 % 4);  //0
+console.log(56 % 10); //6
+
+console.log(22 % 100); //22
+
+console.log(23 % 20);//3
+
+console.log(23 % 99); //23
+
+
+
+
+
+
+
+// exponentation (**)
+
+let a=10;
+let b=10;
+
+console.log(a ** b);
+
+
+
+
+
+
+
+
+
+
+// calculate the square root of x.
+
+let x= 16;
+
+
+console.log(x ** 0.5);
+
+
+
+
+
+
+// cancatenation
+
+//1. number + number = number(concatenation)
+
+//2.  number + string = string (joined)
+
+// string + string = string (concatenation)
+
+let x=10;
+let y=20;
+console.log(x+y);
+
+let a=10;
+let b="20";
+console.log(a+b);
+
+let p="10";
+let q="20";
+console.log(p+q);
+
+
+let X=10
+let Y=20;
+let Z="30";
+console.log(X+Y+Z);
+
+
+
+
+
+
+
+
+
+
+
