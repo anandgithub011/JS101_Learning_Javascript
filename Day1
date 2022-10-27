@@ -1,0 +1,126 @@
+// PROBLEM 1
+// Problem 1
+// Print "Masai School" in the console followed by "A Transformation in Education" in next line
+
+
+
+
+let institute ="Masai School";
+var nextline ="A Transformation in Education"
+
+console.log(institute);
+console.log(nextline);
+
+
+
+// Problem 2
+// Define a variable called name with your Name as the assigned value
+// Print the value stored in the variable name
+// Change the variable to store your father's name
+// Print the value stored in the variable name
+// Change the variable again to store your mother's name.
+// Print the value stored in the variable name
+
+
+let name="ANAND KUMAR MAHSETH";
+let fathername= "SHANKR MAHASETH";
+var mothername= "UMA DEVI";
+
+console.log(name);
+console.log(fathername);
+console.log(mothername);
+
+
+
+
+// Problem 3
+// Create a variable name to store your name
+// Create a variable age to store your age
+// Print the values stored in the variable on one line followed by the type of the variable in the next line
+
+
+
+let name="ANAND KUMAR MAHASETH";
+var age= 25;
+
+
+
+console.log(name,age);
+console.log(typeof(name),typeof(age));
+
+
+
+
+
+// Store the name, school, grade, section, rollno and the marks scored by the student in 3 subjects
+// Print the report card of the student (You can make it look nice by using some keyboard symbols )
+console.log("\n")
+
+var rc_name ="                      *** 𝗥𝗘𝗣𝗢𝗥𝗧 𝗖𝗔𝗥𝗗 ***";
+
+console.log(rc_name);
+
+console.log("----------------------------------------------------------------------");
+console.log("\n")
+
+
+let name ="               𝗡𝗔𝗠𝗘 -       ANAND KUMAR MAHASETH";
+console.log(name);
+
+let school_name="               𝗦𝗖𝗛𝗢𝗢𝗟 𝗡𝗔𝗠𝗘- MASAI SCHOOL";
+console.log(school_name);
+
+let grade ="               𝗚𝗥𝗔𝗗𝗘  -     A";
+console.log(grade);
+
+let section ="               𝗦𝗘𝗖𝗧𝗜𝗢𝗡 -    F23";
+console.log(section);
+
+
+let roll ="               𝗥𝗢𝗟𝗟 𝗡𝗢. -   f23_0283";
+console.log(roll);
+
+console.log("----------------------------------------------------------------------");
+console.log("----------------------------------------------------------------------");
+
+console.log("\n")
+console.log("\n")
+
+
+
+let SUB_MARK_FMARK = "          𝐒𝐔𝐁𝐉𝐄𝐂𝐓              𝐅𝐔𝐋𝐋 𝐌𝐀𝐑𝐊𝐒         𝐎𝐁𝐓𝐀𝐈𝐍𝐈𝐍𝐆 𝐌𝐀𝐑𝐊";
+console.log(SUB_MARK_FMARK)
+
+console.log("\n")
+
+
+let sub1 = "          MSAT-1                   50                  49";
+console.log(sub1);
+
+console.log("\n")
+
+let sub2 = "          MSAT-2                   50                  49";
+
+console.log(sub2);
+
+console.log("\n")
+
+let sub3 = "          MSAT-3                   50                  50"; 
+console.log(sub3);
+
+
+console.log("----------------------------------------------------------------------");
+
+let final_score = "          TOTAL MARKS              150                 148";
+console.log(final_score);
+console.log("----------------------------------------------------------------------");
+
+console.log("\n");
+console.log("\n");
+let result_grading = "      RESULT:PASS                            GRADING : EXCELLENT";
+console.log(result_grading);
+
+
+
+
+
